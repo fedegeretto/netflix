@@ -322,6 +322,10 @@ footer a:hover{
 
 @media (min-width: 700px){
 
+	.encabezado{
+		height: 100vh;
+	}
+
 	.encabezado-principal{
 		justify-content: space-around;
 	}
