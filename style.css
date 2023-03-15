@@ -323,13 +323,17 @@ footer a:hover{
 @media (min-width: 700px){
 
 	.encabezado{
-		height: 100vh;
+		height: 90vh;
 	}
 
 	.encabezado-principal{
 		justify-content: space-around;
 	}
 
+	.encabezado-secundario{
+		margin-top: 4rem;
+	}
+	
 	.encabezado-secundario h1{
 		font-size: 4rem;
 	}
